@@ -107,11 +107,11 @@ Code hosted at:
 | Docker Test Job           | ![Test](./jenkins.png)                             |
 | Docker Push Config        | ![Push](./config_to_push_image_dokerhub.png)       |
 | Push Status               | ![Push Done](./docker_push_done.png)               |
+| DockerHub Image           | ![DockerHub](./dockerhub_pushed_image.png)         |
+| GitHub Code               | ![GitHub](./github.png)                            |
 | Docker Deploy Config      | ![Deploy](./config_deploy_on_live_server.png)      |
 | Docker Deploy Job         | ![Deploy Done](./docker_deploy.png)                |
 | Jenkins Build History     | ![Build History](./build_history.png)              |
-| DockerHub Image           | ![DockerHub](./dockerhub_pushed_image.png)         |
-| GitHub Code               | ![GitHub](./github.png)                            |
 | Live Web Output           | ![Webpage](./webpage.png)                          |
 
 ---
