@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline for Node.js App using Jenkins + Docker + SSH Deployment
+# 🚀 CI/CD for Node.js App using Jenkins + Docker + SSH Deployment
 
 This project demonstrates a complete CI/CD pipeline with **Jenkins**, **Docker**, and **DockerHub** to build, test, push, and deploy a Node.js application on a live server using **SSH credentials**.
 
@@ -116,11 +116,6 @@ Code hosted at:
 
 ---
 
-## 🙏 Special Thanks
-
-Big thanks to **Swati Ma'am** for her constant guidance and mentorship throughout this project journey. 🙌
-
----
 
 ## 💬 Author
 
